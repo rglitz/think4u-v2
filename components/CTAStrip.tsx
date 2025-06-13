@@ -25,7 +25,7 @@ export default function CTAStrip() {
               </Button>
             </Link>
             <Link href="/get-involved">
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-[#5E4E4F] px-8 py-4 text-lg">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white text-[#5E4E4F] px-8 py-4 text-lg">
                 <Users className="w-5 h-5 mr-2" />
                 Join as Volunteer
               </Button>
